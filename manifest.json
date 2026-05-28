@@ -1,8 +1,9 @@
 {
   "name": "Home Appliance Lifespan",
   "short_name": "home-applian",
-  "start_url": "/",
+  "start_url": "/home-appliance-lifespan/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/home-appliance-lifespan/"
 }
